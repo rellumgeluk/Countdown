@@ -18,4 +18,4 @@ function Countdown(){
         clearInterval(intervalId);
     }
 }
-const intervalId = setInterval(Countdown, 1000); //1000 milliseconds (1 second)
+const intervalId = setInterval(Countdown, 1000); //1000 milliseconds (1 second) 
