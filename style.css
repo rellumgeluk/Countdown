@@ -1,4 +1,5 @@
 body {
+    padding: 50px;
     font-family: sans-serif;
     margin: 10px;
     background: #f5f9fa;
@@ -8,7 +9,7 @@ body {
 }
 
 .output {
-    padding: 20px;
+    padding: 30px;
     text-align: center;
 }
 
